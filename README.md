@@ -1,8 +1,8 @@
 # Данный репозиторий содержит примеры решения задач по парсингу текстовых данных с сайтов и геоданных с использованием библиотек и инструментов Python.
 
-### [Парсинг данных](https://github.com/nboravlev/Machine-Learning/blob/main/HW16_correl%26regress.ipynb "ссылка на код")
+### [Парсинг данных](https://github.com/nboravlev/parsing/blob/main/Scraping.ipynb "ссылка на код")
 
-Парсинг данных с [сайта](https://user-images.githubusercontent.com/120275954/235344809-9fc7c17f-2767-4324-b8dd-bd2ddaf3dce8.png)
+Парсинг данных с [сайта](https://habr.com/)
 
   Пример реализации функции на Python, которая в качестве аргументов принимает ссылку на страницу поиска и слова для поиска, автоматически выполняет к сайту поисковый 
   запрос, из результатов извлекает заданные параметры (тескт статьи, ссылка на статью, дата публикации, количество лайков, просмотров) и записывает 
@@ -18,7 +18,7 @@
 
 ----------
 
-### [Парсинг данных](https://github.com/nboravlev/Machine-Learning/blob/main/Class%26Klaster_boravlevdsu33.ipynb "ссылка на код")
+### [Парсинг Гео-данных](https://github.com/nboravlev/Machine-Learning/blob/main/Class%26Klaster_boravlevdsu33.ipynb "ссылка на код")
 
 Парсинг Гео-данных по API с использованеим портала Yandex GeoCoder.
 
