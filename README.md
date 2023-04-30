@@ -18,7 +18,7 @@
 
 ----------
 
-### [Парсинг Гео-данных](https://github.com/nboravlev/Machine-Learning/blob/main/Class%26Klaster_boravlevdsu33.ipynb "ссылка на код")
+### [Парсинг Гео-данных](https://github.com/nboravlev/parsing/blob/main/yandex_geocoder.ipynb "ссылка на код")
 
 Парсинг Гео-данных по API с использованеим портала Yandex GeoCoder.
 
